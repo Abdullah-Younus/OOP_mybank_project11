@@ -1,0 +1,21 @@
+{
+  "name": "mybankproject011",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdullah-Younus/OOP_mybank_project11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdullah-Younus/OOP_mybank_project11/issues"
+  },
+  "homepage": "https://github.com/Abdullah-Younus/OOP_mybank_project11#readme"
+}
