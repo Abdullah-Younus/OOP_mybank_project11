@@ -55,4 +55,15 @@ class Customer {
     public set BankAccount(value: BankAccount) {
         this.bankAccount = value;
     }
+
+    public CustomerInfo() {
+        return `
+            Name:${this.firstName} ${this.lastName}
+            Age: ${this.age}
+            Gender: ${this.gender}
+            Mobile : ${this.mobileNumber}
+            Account Balance : ${this.bankAccount}
+        
+        `
+    }
 }
